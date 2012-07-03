@@ -1,4 +1,4 @@
-{ "name": "simplequeue"
+{ "name": "simpletree"
 , "description": "Simple In-memory Tree for Node.js"
 , "keywords": [ "tree", "nodejs", "javascript" ]
 , "version": "0.0.1alpha"
