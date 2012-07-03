@@ -1,0 +1,16 @@
+{ "name": "simplequeue"
+, "description": "Simple In-memory Tree for Node.js"
+, "keywords": [ "tree", "nodejs", "javascript" ]
+, "version": "0.0.1alpha"
+, "author": "Angel 'Java' Lopez <webmaster@ajlopez.com> (http://www.ajlopez.com)"
+, "repository": { "type": "git", "url": "git://github.com/ajlopez/SimpleTree.git" }
+, "main": "./lib/simpletree.js"
+, "engines": { "node": ">= 0.6.0 && < 0.9.0" }
+, "scripts": {
+    "test": "node ./test.js"
+  }
+, "dependencies": {
+  }
+, "devDependencies": {
+  }
+}
